@@ -1,6 +1,5 @@
-Par2MultiChecker Ultimate Edition is a powerful tool designed to
-
-be a straight forward solution for verifying PAR2, SFV and MD5 files
+# Par2MultiChecker Ultimate Edition
+A powerful tool designed for verifying PAR2, SFV and MD5 files
 
 and also repair PAR2 files as well as extract files from ZIP and RAR archives
 
